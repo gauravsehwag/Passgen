@@ -7,5 +7,6 @@ Usage:python main.py
 #ENTER THE PASSWORD LENGTH YOU WANT                                                                            
 #THEN SELECT IF YOU WANT TO SAVE THE PASSWORD OR NOT
 
-![image](https://user-images.githubusercontent.com/58973284/145257850-5b2cffd4-17ab-483f-adf8-a5c930f1bafd.png)
+![image](https://user-images.githubusercontent.com/58973284/145272442-8daf2ee5-792b-4e52-ab8c-5e103de9e6ed.png)
+
 
